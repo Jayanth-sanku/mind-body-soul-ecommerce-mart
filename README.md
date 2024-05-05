@@ -26,7 +26,7 @@ Install dependencies using npm install.
 Start the development server using npm run dev.
 Access the application in your browser at http://localhost:3000.
 
-# Contributors
+# Developer
 
 Jayanth - Lead Developer
 # License
